@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SahilShrivastava-Dev](https://github.com/SahilShrivastava-Dev)
 
-- 💬 Ask me about **Java,C++,Python, Django, MongoDM,SQL**
+- 💬 Ask me about **Java,C++,Python, Django, MongoDB,SQL**
 
 - 📫 How to reach me **sahilshrivastava28@gmail.com**
 
