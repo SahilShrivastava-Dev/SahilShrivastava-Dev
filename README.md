@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Sahil Shrivastava</h1>
-<h3 align="center">Junior Data Scientist @ EPAM Systems | Independent AI Researcher 🚀</h3>
+<h3 align="center">Data Scientist @ EPAM Systems | Independent AI Researcher 🚀</h3>
 <p align="center"><i>Exploring the frontiers of Spiking Neural Networks, DAG optimization, and RAG architectures.</i></p>
 
 <div align="center">
